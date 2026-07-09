@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "611018478587",
+    "project_id": "test-efafe",
+    "storage_bucket": "test-efafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611018478587:android:a46f976439e047c0f0315e",
+        "android_client_info": {
+          "package_name": "com.example.luxe_loft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611018478587-vrp85c8e5m949gtcun2ftpvrfoifo1tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luxe_loft",
+            "certificate_hash": "fb0de30116d27b3bc8648223de60bfb979cc89d7"
+          }
+        },
+        {
+          "client_id": "611018478587-4elbhq2b2j9e5usnnv8uop49hthliqoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ4WriFyIa-5UTJ8Cso-tBFIj4IvE3RSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611018478587-4elbhq2b2j9e5usnnv8uop49hthliqoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611018478587-t655mip1jibseq32gs87u6bgappg29ch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.luxeLoft"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
