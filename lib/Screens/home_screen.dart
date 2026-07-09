@@ -37,7 +37,6 @@ class _HomeScreenState extends State<HomeScreen> {
     {'image': 'assets/image 7 (1).png', 'icon': Icons.watch_outlined, 'label': 'Watches'},
   ];
 
-  // TODO: Replace with Firestore product documents
   final List<Map<String, dynamic>> _products = [
     {
       'name': 'Multi Kit',

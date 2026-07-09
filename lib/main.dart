@@ -2,7 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:luxe_loft/Screens/Splash.dart';
 import 'package:luxe_loft/firebase_options.dart';
-import 'package:luxe_loft/otp_screen.dart';
+import 'package:luxe_loft/Screens/otp_screen.dart';
 import 'package:luxe_loft/screens/home_screen.dart';
 import 'package:luxe_loft/screens/login_screen.dart';
 import 'package:luxe_loft/screens/onboarding_screen.dart';
